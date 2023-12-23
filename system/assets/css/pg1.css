@@ -1,0 +1,88 @@
+
+.navbar-brand{
+    font-weight: bold;
+    font-family: Vector;
+    height: 24.51px;
+    top: 0.01px;
+    left: 195.71px;
+}
+.nav{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.hcontainer{
+    background-color: #6B3CC9;
+    height: 77px;
+    margin-top: 215px;    
+    justify-content: space-between;
+    padding: 26px 80px 26px 80px;
+
+}
+.footer{
+    width: 1440px;
+    height: 324px;
+    padding: 80px 20px 80px;
+    gap: 40px;
+    background-color: #6B3CC9;
+}
+#s2{
+    width: 1440px;
+    height: 700px;
+   
+}
+
+.overlay-text{
+    position: absolute;
+    top: 354px;
+    left: 80px;
+    width: 630px;
+    height: 306px;
+    padding: 24px 40px 32px 40px;
+    gap: 20px;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    background: linear-gradient(256.73deg, #1CBDDD 27.86%, #4DCA79 100%);
+    color: #FFFF;
+    z-index: 1;
+}
+.button{
+    width: 214px;
+    height: 38px;
+    padding: 12px 20px 12px 20px;
+    border-radius: 4px;
+    border-color: #F28D35;
+    gap: 8px;
+    background: #F28D35;
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFF;
+    text-align: left;
+}
+#b1{
+    width: 129px;
+}
+
+#heading{
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: left;
+
+}
+
